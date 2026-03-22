@@ -14,3 +14,8 @@ Personal development log — notes, findings, and ongoing work.
 - Checked for memory leaks in long-running path
 - Documented config options
 - Tested build on clean environment
+
+## 2026-03-23
+- Wrote notes on upcoming feature design
+- Ran linter, applied auto-fixes
+- Refactored module structure for clarity
