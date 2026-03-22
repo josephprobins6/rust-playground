@@ -6,3 +6,6 @@ Personal development log — notes, findings, and ongoing work.
 - Updated dependencies to latest stable versions
 - Reviewed open issues, added labels
 - Resolved TODO items from previous session
+
+## 2026-03-23
+- Added CONTRIBUTING.md stub
